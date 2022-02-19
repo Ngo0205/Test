@@ -16,3 +16,8 @@ git branch: show cac nhánh dang co o local
 (local, remote)
 git checkout <ten branch> : chuyen nhanh
 git branch <ten nhanh> : tao nhanh khac
+git branch -m <old name branch> <new name branch>
+git branch -d <ten nhanh>: xoa nhanh.
+(phải chuyển nhánh khác thì mới xoá được nhánh hiện tại)
+aaaa..
+
