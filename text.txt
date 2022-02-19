@@ -1,1 +1,10 @@
-A->B->C
+git status(kiểm tra trong git có những file gì)
+git add<file name>: thêm 1 file
+git add .(thêm all)
+git rm --cached<file> -f(xoá file)
+git rm --cached . -r(xoá all file)
+git add"*.<đuôi file>"(add các file có cùng đuôi file)
+
+commit:
+git commit -m "..." (-m message)
+ex: git commit-m"implement logic "
