@@ -8,3 +8,11 @@ git add"*.<đuôi file>"(add các file có cùng đuôi file)
 commit:
 git commit -m "..." (-m message)
 ex: git commit-m"implement logic "
+git diff -> log ra su khac biet
+gitk -> show lich su hoat dong
+
+branch:
+git branch: show cac nhánh dang co o local
+(local, remote)
+git checkout <ten branch> : chuyen nhanh
+git branch <ten nhanh> : tao nhanh khac
